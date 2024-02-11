@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "databasemacaddressserver",
+  "private_key_id": "90efafaa3de5debd8676bbe2ff0fc8d0837d17e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYxy54mQLCkK/Q\nA35DCrEtML8DBR4WDvD2qoUXEf0/oiffwChpXwZooZYTateiarq9l1MYAJcihmAT\nPNTb2Humu0YxvWZyCGySQahp8o2paMTyrDyh7tUopScgpNdXG0FkLWjWnToShXip\nThVeif/OUwh+QXhDaWC0v4ilYlGJql+DOTbJCt+bfKClQziex3OXBeYdDCpFMOZI\nCKhmwcfj8+mOq+pqQC06aYOhU9UREXyc9PlCGwSPD0GB31ATtE/zMbAKsKVlw+2J\n49qnnibo4WRHQvQSmLrSB0/hSA2FRpu+cs3dYXJTg0g3A5/5QO36w4UcGlJy5AUV\nS/TCnXNfAgMBAAECggEASTCCjruemt79msVRo4RnxKJpn2TAOQkHXuPpxleT3vwr\n5gEEWxZu14kxgDPbAa/nrhPkdscxoBSHyi+GOZvIAOQOiJ2XimGGwbo6mCbevp22\nXBsvINRtwX7886KElvIzrW4jn0zLGTxfxZvmmNe7eHhGxVVP69t7vJtVNwWW0j/S\n1gtGx14zbrwG8VfZRHHFJI071xB/GvsWLxhtvhig3OTA1jYmUPejN9aW6aToh5RE\n226uShFOytzW29QytP1AeQFaq1iPgU0zpekppqnx8YdQDrdo++DCBB9Z1orIqboQ\nqMIA0DfiuHlMVBLVaORfNNeJKsVvBN83DYzuBfNnIQKBgQDMC0zEKvEem6i0RJUO\nDykK69c3tOmyZmdnypkRjyb77Sg1hTd0tw7GYcT89VnSfFTEOMiccFSED0F4Hlzq\nK9heUkvXBocDVjkcPvq27OY04vD1mLpG8xJSXYaeLWGRPoQuxiHh9VGLLIvbq2GH\nD36qpUWX4SjzRSDvmJ9GOu+AcwKBgQC/rhS4p4S+L89PlUyXdlEhKAP79tucAzvF\nDWmdHc6ImbKTO+tnlajvvQCki7ihcp1fhCPvB3bISOouS8Xb7pQMD7X4fBBdhSX+\ns2ePsECROW3Tk/TdXhFNcTKH+M/jqevcVE2U976Z0VFWtuNqECIFjNF4tVxWIBxJ\ny9Uxnw2iZQKBgFsC70rQnJw6chV2QcXznSrx5x1B5LteUeFJzNy4LXtRXQ4CTaoR\nvNVf5q2uAlKQgn7DlTeyIwCEjX82i9snk2r+6jUPBEnIu9CNhubw4/3S/AeQCAZ9\nhT6X2OPU+h/+8paqaZKQCb86L2fcGbRUhPs4nMIR/GIGA5rbSK/audlhAoGBAJh2\n/nJ2hSbGXq8dwYOEkDnAW5Lyo3IwPD2cUpKv39VV8+4bLj8BkxPGkZlQrfZ1dWpB\ncFez5y6emO9kRCiRV99UK9lPzbCltTgoOcrYVjNtq8csnAvsw/SGgrwXFD0xrrNd\ntywz977f+UPxS2jVFkq13PSXxa+X8QheAuFqc2zlAoGAEDtCrMOEFyfvNsuHB3bX\npuBjlLV6mK1jwgPE5UmuhdaE1crunB4YXcx/tz9H5JscYAnATd/fWgp0dUinBVbV\nMaK0W64KHkNWwfDEId2kcL/dj2wM383RlGnefBEj+oxMvYt53L8EFjj7LrTLqmfF\nmKNqP6slaGNHlQSjseJwMhM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "databaseadministratormacaddres@databasemacaddressserver.iam.gserviceaccount.com",
+  "client_id": "114508798450408321684",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/databaseadministratormacaddres%40databasemacaddressserver.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
