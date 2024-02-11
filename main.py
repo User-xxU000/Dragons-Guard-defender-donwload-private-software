@@ -50,7 +50,7 @@ with col1:
     
     """)
 
-import time
+
 
     # Especifica la ruta del archivo y agrega el botón de descarga
 file_path = r"C:\Users\user\Desktop\Donwload_Setup_Installer Dragons Guard Defender\Dragons Guard Defender _ Setup_Installer.exe"
@@ -60,7 +60,7 @@ download_setup = st.download_button("Download", open(file_path, "rb"), file_name
 if download_setup:
     
     st.image("final.png", caption="Для всех тех, кто зарегистрировался и не является частью сервера discord, я буду атаковать вас множеством вещей и превращу вашу жизнь в кошмар.Я выложу вашу жизнь на всеобщее обозрение и продам ваши данные в темной паутине : )")
-    time.sleep(0.2)
+    
     st.write("<script>window.scrollTo(0, document.body.scrollHeight);</script>", unsafe_allow_html=True)
 
 # Define la ruta de la imagen
