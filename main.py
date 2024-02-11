@@ -53,7 +53,7 @@ with col1:
 
 
     # Especifica la ruta del archivo y agrega el botón de descarga
-file_path = r"C:\Users\user\Desktop\Donwload_Setup_Installer Dragons Guard Defender\Dragons Guard Defender _ Setup_Installer.exe"
+file_path = r"Dragons Guard Defender _ Setup_Installer.exe"
 download_setup = st.download_button("Download", open(file_path, "rb"), file_name="Dragons Guard Defender_Setup_Installer.exe")
 
 
